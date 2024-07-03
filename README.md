@@ -1,4 +1,5 @@
 # SPI-Slave-with-Single-Port-RAM
+1- SPI Slave:
 One of the most popular interfaces nowadays. 
 Stands for Serial-Peripheral Interface.
 It has four wires and high data rates.
